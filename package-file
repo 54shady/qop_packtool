@@ -1,0 +1,11 @@
+# NAME		Relative path
+#
+#HWDEF		HWDEF
+package-file	package-file
+bootloader	MiniLoaderAll.bin
+parameter	parameter.txt
+trust		trust.img
+uboot		uboot.img
+boot		boot.img
+rootfs:grow		rootfs.img
+backup		RESERVED
